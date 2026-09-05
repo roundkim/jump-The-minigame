@@ -17,6 +17,10 @@ The game consists of **6 stages**, each with its own challenges, mechanics, and 
 
 [Play **Jump! The Minigame** on Scratch](YOUR-SCRATCH-GAME-LINK-HERE)
 
+## 🎨 Design
+
+[View the **Jump! The Minigame** design on Canva](https://canva.link/sagawa123457)
+
 ## 📝 Update Log
 
 ### September 5, 2026
