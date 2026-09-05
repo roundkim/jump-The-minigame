@@ -15,7 +15,7 @@ The game consists of **6 stages**, each with its own challenges, mechanics, and 
 
 ## ▶️ Play the Game
 
-[Play **Jump! The Minigame** on Scratch](YOUR-SCRATCH-GAME-LINK-HERE)
+[Play **Jump! The Minigame** on Scratch](https://scratch.mit.edu/projects/1367349357)
 
 ## 🎨 Design
 
