@@ -28,6 +28,12 @@ The game consists of **6 stages**, each with its own challenges, mechanics, and 
 * Changed the map design
 * Updated the movement logic
 
+### September 19, 2026
+
+* Replaced and updated the stage map graphics
+* Improved collision detection with additional map color checks
+* Added conditional stage visibility behavior
+
 ## 📌 Project Status
 
 **In Development**
