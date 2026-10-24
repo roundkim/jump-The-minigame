@@ -23,6 +23,13 @@ The game consists of **6 stages**, each with its own challenges, mechanics, and 
 
 ## 📝 Update Log
 
+### October 24, 2026
+
+* Updated the artwork for stages 1–6 and the character
+* Added stage-specific character spawn positions and Stage variable tracking
+* Added portal-triggered progression to the next stage; completing Stage 6 leads to the End screen
+* Refined character movement and collision behavior
+
 ### October 3, 2026
 
 * Added start and end screens, with the game starting from the start screen when the space key is pressed
